@@ -4,7 +4,7 @@
 
 ## Результат
 
-- `Public score`: **0,12206**
+- `Public score`: **0,135**
 - Основной код: `main-0,122.ipynb`
 - Выходной файл: `submission.csv`
 
@@ -36,7 +36,7 @@ pip install numpy pandas polars scikit-learn catboost pyarrow jupyter
 ## Как запустить
 
 1. Положить все файлы датасета в папку `data/`.
-2. Открыть `main-0,122.ipynb`.
+2. Открыть `main-0,135.ipynb`.
 3. Выполнить все ячейки последовательно (`Run All`).
 4. После завершения будет создан `submission.csv`.
 
